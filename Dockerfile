@@ -48,4 +48,5 @@ RUN \
 	php7-sockets \
 	php7-tokenizer \
 	php7-xml \
-	php7-zip
+	php7-zip \
+	php7-xmlreader
